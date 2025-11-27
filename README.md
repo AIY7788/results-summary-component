@@ -8,5 +8,5 @@ This is a solution to the [Results summary component challenge on Frontend Mento
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/htmlcss-mobile-first-workflow-flexbox-responsive-font-sizing-min-cEwnHTn7_N)
 - Live Site URL: [Add live site URL here](https://aiy7788.github.io/results-summary-component/)
